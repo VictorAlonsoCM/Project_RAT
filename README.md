@@ -12,7 +12,7 @@ This project is still in development and needs some improvement in the current f
 ## How it works?
 
 1. Download the code
-`git clone`
+`git clone https://github.com/VictorAlonsoCM/Project_RAT.git`
 
 2. Install the requirements
 `pip3 install -r requirements.txt`
